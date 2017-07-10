@@ -45,6 +45,7 @@ npm run build
 
 - node v7.7
 - webpack v1.13.1
+- Koa v2.0.0
 
 ## Link
 
