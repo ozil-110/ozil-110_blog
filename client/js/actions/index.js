@@ -62,7 +62,9 @@ function shouldFetchIssues(state) {
 }
 export default {
   fetchIssues,
-  fetchIssuesIfNeeded
+  fetchIssuesIfNeeded,
+  requestIssues,
+  receiveIssues
 }
 
 
