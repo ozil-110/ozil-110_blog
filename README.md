@@ -36,6 +36,7 @@ Server-side rendering makes it easier for search engines to read page meta infor
 
 ```js
 git clone https://github.com/ozil-110/ozil-110_blog.git
+npm install -g cnpm --registry=https://registry.npm.taobao.org
 cnpm install
 npm run dev
 npm run build
@@ -50,3 +51,7 @@ npm run build
 ## Link
 
 [https://ozil-110.github.io](https://ozil-110.github.io)
+
+## Update
+
+- redux-thunk --> redux-observable
