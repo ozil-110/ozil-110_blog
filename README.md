@@ -55,3 +55,4 @@ npm run build
 ## Update
 
 - redux-thunk --> redux-observable
+- webpack 2.7
